@@ -2,6 +2,9 @@
 
 This is a simple text translation application built using Flask and the Transformers library. The application allows users to input text and receive translations in required language using pre-trained models from the Transformers library.
 
+![Untitled design](https://github.com/user-attachments/assets/303b12e8-1629-4fa4-b3c3-03fc7312e734)
+
+
 ## Getting Started
 
 Follow these steps to set up and run the application locally.
@@ -55,3 +58,4 @@ Here is a brief overview of the project structure:
 ### Notes
   - If you encounter any issues with package versions, consider updating your requirements.txt file or installing specific versions of dependencies.
   - For further customization or development, refer to the documentation of Flask and Transformers.
+
